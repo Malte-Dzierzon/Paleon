@@ -447,7 +447,16 @@ Planned test conditions:
 git clone https://github.com/Malte-Dzierzon/Paleon.git
 ```
 
-Requires [Git LFS](https://git-lfs.com) to download the pack file.
+Install Git LFS first (one time):
+
+```bash
+# openSUSE
+sudo zypper install git-lfs && git lfs install
+
+# Debian / Ubuntu
+sudo apt install git-lfs && git lfs install
+```
+
 
 Import `Paleon.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
 
