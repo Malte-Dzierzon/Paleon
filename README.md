@@ -455,8 +455,10 @@ sudo zypper install git-lfs && git lfs install
 
 # Debian / Ubuntu
 sudo apt install git-lfs && git lfs install
-```
 
+# Arch
+sudo pacman -S git-lfs && git lfs install
+```
 
 Import `Paleon.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
 
