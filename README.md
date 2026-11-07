@@ -1,19 +1,15 @@
 <div align="center">
 
-# RPG
+<img src="assets/banner.jpg" alt="Paleon banner" width="1200">
+
+# Paleon
 
 **Minecraft 1.21.1 · NeoForge 21.1.264 · 318 mods**
 
-![](https://img.shields.io/github/last-commit/Malte-Dzierzon/rpg-modpack?style=flat-square&color=16242d&labelColor=070e15)
+![](https://img.shields.io/github/last-commit/Malte-Dzierzon/Paleon?style=flat-square&color=16242d&labelColor=070e15)
 ![](https://img.shields.io/badge/Minecraft-1.21.1-3b4250?style=flat-square&logo=minecraft&logoColor=ffffff&labelColor=070e15)
 ![](https://img.shields.io/badge/NeoForge-21.1.264-732031?style=flat-square&labelColor=070e15)
 ![](https://img.shields.io/badge/Mods-318-16a3da?style=flat-square&labelColor=070e15)
-
-</div>
-
-<div align="center">
-
-<img src="assets/icon.png" alt="RPG modpack icon" width="128">
 
 </div>
 
@@ -29,7 +25,7 @@
 ## Installation
 
 ```bash
-gh repo clone Malte-Dzierzon/rpg-modpack
+gh repo clone Malte-Dzierzon/Paleon
 ```
 
-Import `RPG.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
+Import `Paleon.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
