@@ -4,12 +4,12 @@
 
 # Paleon
 
-**Minecraft 1.21.1 · NeoForge 21.1.264 · 348 mods**
+**Minecraft 1.21.1 · NeoForge 21.1.265 · 356 mods**
 
 ![](https://img.shields.io/github/last-commit/Malte-Dzierzon/Paleon?style=flat-square&color=16242d&labelColor=070e15)
 ![](https://img.shields.io/badge/Minecraft-1.21.1-3b4250?style=flat-square&logo=minecraft&logoColor=ffffff&labelColor=070e15)
-![](https://img.shields.io/badge/NeoForge-21.1.264-732031?style=flat-square&labelColor=070e15)
-![](https://img.shields.io/badge/Mods-348-16a3da?style=flat-square&labelColor=070e15)
+![](https://img.shields.io/badge/NeoForge-21.1.265-732031?style=flat-square&labelColor=070e15)
+![](https://img.shields.io/badge/Mods-356-16a3da?style=flat-square&labelColor=070e15)
 
 </div>
 
@@ -26,8 +26,8 @@
 Technical base:
 
 - **Version**: `1.21.1`
-- **Loader**: `NeoForge 21.1.264`
-- **Mods**: `348` · **Resource packs**: `79`
+- **Loader**: `NeoForge 21.1.265`
+- **Mods**: `356` · **Resource packs**: `79`
 - **Shader**: Complementary Reimagined + Euphoria Patches
 - **RAM**: `8 GB` allocated
 - **Storage**: SSD recommended
@@ -38,7 +38,6 @@ Technical base:
 
 <details>
 <summary><img src="assets/included-mods.webp" alt="Included Mods" width="240"></summary>
-
 
 - [Neoforge-1.21.1]Accurateblockplacement 1.0.0
 - a_good_place-1.21-1.2.6-neoforge
@@ -85,11 +84,13 @@ Technical base:
 - better_climbing-neoforge-4
 - betterbiomeblend-1.5.2
 - BetterF3-11.0.3-NeoForge-1.21.1
+- betterinventory-neoforge-1.21.1-2.1.0
 - betterzoom-neoforge-1.21.1-3.1.1
 - biomespy-neoforge-1.21.1-1.3.3
 - blaze-attack-animation-1.0
 - bookshelf-neoforge-1.21.1-21.1.81
 - bowinfinityfix-1.21-neo-3.1.1
+- buildprint-neoforge-0.1.37+1.21.1
 - burnt_basic-1.10.5.3-neoforge-1.21.1
 - c2me-neoforge-mc1.21.1-0.4.0-alpha.0.124
 - caelus-neoforge-7.0.1+1.21.1
@@ -102,6 +103,7 @@ Technical base:
 - cobweb-neoforge-1.21-1.4.0
 - collective-1.21.1-8.83
 - colorwheel-neoforge-1.3.2+mc1.21.1
+- common-networking-neoforge-1.0.21-1.21.1
 - connectiblechains-2.5.0+1.21.1-neoforge
 - Continents_26.2_v1.1.14
 - Controlling-neoforge-1.21.1-19.0.5
@@ -197,6 +199,7 @@ Technical base:
 - HeldItemTooltips-v21.1.0-1.21.1-NeoForge
 - hifi-0.1.1
 - hybrid_aquatic-neoforge-1.21.1-1.7.4
+- Icarus-NeoForge-4.8.1
 - ImmediatelyFast-NeoForge-1.6.15+1.21.1
 - interiors-1.21.1-neoforge-0.6.1
 - inventoryessentials-neoforge-1.21.1-21.1.20
@@ -308,6 +311,7 @@ Technical base:
 - reliquified_irons_spells_and_spellbooks-1.21.1-0.2.8
 - reliquified_malum-1.0.1
 - remi-neoforge-1.21.1-4.8.1
+- resourcefulconfig-neoforge-1.21-3.0.11
 - responsiveshields-2.4-neoforge-mc1.21.x
 - Ribbits-1.21.1-NeoForge-4.1.6
 - rightclickharvest-neoforge-4.6.1+1.21.1
@@ -324,11 +328,13 @@ Technical base:
 - slate-chat-neoforge-1.21.1-1.1.0
 - slate-config-neoforge-1.21.1-1.1.0
 - slate-core-neoforge-1.21.1-1.1.0
+- slate-crafting-neoforge-1.21.1-1.1.0
 - slate-earlywindow-neoforge-1.21.1-1.1.0
 - slate-menu-neoforge-1.21.1-1.1.0
 - slate-multiplayer-neoforge-1.21.1-1.1.0
 - slate-profile-neoforge-1.21.1-1.1.0
 - slate-quests-neoforge-1.21.1-1.1.0
+- slate-teams-neoforge-1.21.1-1.1.0
 - smart_bounds-1.0.0
 - smart_particles-21.8.10
 - smart_tooltip_scroll-neoforge-1.1.1+1.21.1
@@ -344,6 +350,7 @@ Technical base:
 - soul-fire-d-neoforge-1.21-6.1.0
 - sounds-2.4.22+lts+1.21.1-neoforge
 - spark-1.10.124-neoforge
+- Sparkweave-NeoForge-0.510.0
 - spellslinger-1.0.1
 - starcatcher-3.3.10-NEOFORGE-1.21.1
 - starcatcher_delight-3.2-NEOFORGE-1.21.1
@@ -423,7 +430,7 @@ Planned test conditions:
 | Type | Recommended |
 |---|---|
 | Version | `1.21.1` |
-| Loader | `NeoForge 21.1.264` |
+| Loader | `NeoForge 21.1.265` |
 | RAM | `8 GB` allocated (author: 32 GB installed) |
 | GPU | Mid-end+ (author: RX 7700 XT / 7800 XT) |
 | Storage | SSD (author: NVMe) |
