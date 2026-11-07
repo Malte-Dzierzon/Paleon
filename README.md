@@ -444,8 +444,10 @@ Planned test conditions:
 <summary><b>Installation</b></summary>
 
 ```bash
-gh repo clone Malte-Dzierzon/Paleon
+git clone https://github.com/Malte-Dzierzon/Paleon.git
 ```
+
+Requires [Git LFS](https://git-lfs.com) to download the pack file.
 
 Import `Paleon.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
 
