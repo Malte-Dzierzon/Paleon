@@ -21,9 +21,7 @@
 
 ---
 
-<p align="left"><img src="assets/about.webp" alt="About" width="165"></p>
-
-**Paleon** is a **magic- and adventure-focused RPG modpack** for **Minecraft 1.21.1** on **NeoForge** — spells, dimensions, dungeons and progression, without turning Minecraft into a tech-tree grind.
+<p align="left"><img src="assets/about.webp" alt="About" width="240"></p>
 
 Technical base:
 
@@ -37,21 +35,10 @@ Technical base:
 
 ---
 
-<p align="left"><img src="assets/features.webp" alt="Features" width="165"></p>
-
-| Layer | Software |
-|---|---|
-| Base | Minecraft Java 1.21.1 |
-| Loader | NeoForge 21.1.264 |
-| Content | 348 mods · 79 resource packs · Complementary Reimagined + Euphoria Patches |
-| Format | Modrinth `.mrpack` |
-
----
-
-<p align="left"><img src="assets/included-mods.webp" alt="Included Mods" width="240"></p>
 
 <details>
-<summary><b>Show all 348 mods (Paleon 1.0.0)</b></summary>
+<summary><img src="assets/included-mods.webp" alt="Included Mods" width="240"></summary>
+
 
 - [Neoforge-1.21.1]Accurateblockplacement 1.0.0
 - a_good_place-1.21-1.2.6-neoforge
@@ -406,7 +393,8 @@ Technical base:
 
 ---
 
-<p align="left"><img src="assets/performance.webp" alt="Performance" width="230"></p>
+<details>
+<summary><img src="assets/performance.webp" alt="Performance" width="240"></summary>
 
 > **Placeholder — no benchmarks measured yet. Values will be added later.**
 
@@ -423,9 +411,12 @@ Planned test conditions:
 - 20 chunk render distance
 - Shader: Complementary Reimagined (custom settings)
 
+</details>
+
 ---
 
-<p align="left"><img src="assets/requirements.webp" alt="Requirements" width="240"></p>
+<details>
+<summary><img src="assets/requirements.webp" alt="Requirements" width="240"></summary>
 
 > **Preliminary — based on the author's machine. Will be refined.**
 
@@ -438,12 +429,17 @@ Planned test conditions:
 | Storage | SSD (author: NVMe) |
 | Java | `21+` (author: `25.0.5`) |
 
+</details>
+
 ---
 
-## Installation
+<details>
+<summary><b>Installation</b></summary>
 
 ```bash
 gh repo clone Malte-Dzierzon/Paleon
 ```
 
 Import `Paleon.mrpack` in the Modrinth App, Prism Launcher, or ATLauncher and go.
+
+</details>
